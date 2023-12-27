@@ -19,3 +19,4 @@ libzstd-dev
 libcap-dev
 libbabeltrace-dev
 libtraceevent-dev
+libelf-dev

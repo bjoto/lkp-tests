@@ -1,0 +1,60 @@
+bsdtar: libarchive-tools
+btrfs-tools: btrfs-progs
+cgroup-bin: cgroup-tools
+cython: cython3
+e2fslibs-dev: libext2fs-dev
+exfat-utils: exfatprogs
+fuse: fuse3
+glmark2: glmark2-x11
+gtk3: gir1.2-gtk-3.0
+lib32gcc-dev: lib32gcc-13-dev
+libbabeltrace-ctf-dev: libbabeltrace-dev
+libc-dev: libc6-dev
+libc6-dev:i386: libc6-dev-i386
+libevent-2: libevent-2.1-7
+libgcrypt-dev: libgcrypt20-dev
+libhugetlbfs: libhugetlbfs0
+libicu: libicu72
+libipsec-mb0: libipsec-mb1
+libjson: libjson-c5
+libldap-2.4-2: libldap-common
+libmariadbclient-dev: libmariadb-dev
+libmariadbclient18: libmariadb3
+libncurses5-dev: libncurses-dev
+libncursesw5-dev: libncurses-dev
+libntfs: libntfs-3g89
+libopenmpi2: mpi-default-dev
+libperl5: libperl5.36
+libpython2.7:
+libpython3.9: libpython3.11
+libreadline5: readline-common
+libssl: libssl3
+libtirpc: libtirpc-common
+libx32gcc-dev: libx32gcc-13-dev
+libx32gcc1: libx32gcc-s1
+linux-libc-dev:i386: linux-libc-dev-i386-cross
+linux-perf:
+openjdk: openjdk-17-jdk
+perl-modules-5: perl-modules-5.36
+procps-ng: procps
+python2.7:
+python2:
+python3-crypto: python3-pycryptodome
+python3-gobject:
+python3-tox:
+python: python-is-python3
+qemu: qemu-system-common
+qt5-default: 
+which: debianutils
+winpdb: 
+
+# ??? begin
+crda:
+dh-systemd: 
+libbabeltrace-devblktrace:
+libbabeltrace-devlibcurl4-openssl-dev:
+libprocps-dev:
+mcelog:
+# ??? end
+
+
